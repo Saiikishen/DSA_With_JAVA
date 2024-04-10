@@ -1,3 +1,9 @@
+/*
+1. Search an element in an array
+2. Create an integer array and find first largest and second largest. 
+3. Perfom sorting
+*/
+
 import java.util.Scanner;
 
 public class Q1 {
